@@ -1,0 +1,48 @@
+{
+  "term": "January IAP",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "legacy_uid": "a079de28-4b97-238f-ee69-0dde803f5d4a",
+  "instructors": {
+    "content": [
+      "742c671b-83ff-dc26-94ec-01222480e506"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "169f6a44-8446-e5df-dc74-55522167b4a1",
+    "website": "9-95-a-research-topics-in-neuroscience-january-iap-2003"
+  },
+  "course_title": "Research Topics in Neuroscience",
+  "course_description": "This series of research talks by members of the Department of Brain and Cognitive Sciences introduces students to different approaches to the study of the brain and mind.\n\nTopics include:\n\n*   From Neurons to Neural Networks\n*   Prefrontal Cortex and the Neural Basis of Cognitive Control\n*   Hippocampal Memory Formation and the Role of Sleep\n*   The Formation of Internal Modes for Learning Motor Skills\n*   Look and See: How the Brain Selects Objects and Directs the Eyes\n*   How the Brain Wires Itself\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.95-A",
+  "course_image_thumbnail": {
+    "content": "879c03ec-9ecb-3284-f204-7e4ebf0b87ae",
+    "website": "9-95-a-research-topics-in-neuroscience-january-iap-2003"
+  },
+  "learning_resource_types": [],
+  "site_uid": "d9834ee2-6833-4220-8783-9de7377a8a77",
+  "site_short_id": "9.95-a-january-iap-2003",
+  "title": "Course Metadata"
+}
